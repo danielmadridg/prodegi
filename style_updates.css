@@ -1,0 +1,26 @@
+/* Additions for new features */
+
+.set-row {
+    margin-bottom: 8px;
+    padding: 8px;
+    background: rgba(255,255,255,0.05);
+    border-radius: 8px;
+}
+
+.set-num {
+    color: var(--text-muted);
+    font-weight: bold;
+    width: 20px;
+}
+
+.btn-sm {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+    margin-top: 5px;
+}
+
+.exercise-card {
+    border-color: var(--border);
+    background: rgba(0,0,0,0.2);
+    padding: 16px;
+}
